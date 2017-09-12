@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+
+
+
+
+<html>
+
+    <head>
+
+        <title>Pragrammation Web et Multimediat</title>
+
+        <meta charset="UTF-8">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <meta name="keywords" content="HTML,web,valleyfield">
+
+        <meta name="author" content="lofti debali">
+
+    </head>
+
+    <body>
+
+        <div>Exercice 1 - TD</div>
+
+        <p title="Ceci est une bulle"></p>
+
+        <p>Ceci est mon premier paragraphe.</p>
+
+        <img src="https://www.tuxboard.com/photos/2012/04/bateau-flottant-12.jpg" width="250px" height="400px">
+
+        <h1>Tutoriel HTML et CSS</h1>
+
+        <h2>Utilité</h2>
+
+        <p>Ces languages sont les "standars" du <b>WEB</b> et sont reconnus par
+
+            tous les navigateurs<br/><em>Aprenons-les donc!</em></p>
+
+        <h2>Apprentissage</h2>
+
+        <h3>(1<sup>er</sup> élément)</h3>
+
+        <p>Vous ne le connaissez pas déja? Et bien vous ne l'apprendrez pas dans cet exemple !</p>
+
+        <h3>Le CSS (2<sup>eme</sup> élément)</h3>
+
+        <p>C'est tellement simple que je ne vois pas pourquoi je devrais vous
+
+            apprendre le CSS.</p>
+
+    </body>
+
+</html>
